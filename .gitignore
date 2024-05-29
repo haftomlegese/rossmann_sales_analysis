@@ -2,6 +2,8 @@
 __pycache__/   
 myenv/          
 data/
+outputs/test_cleaned.csv
+outputs/train_cleaned.csv
 
 .vscode/      
 
