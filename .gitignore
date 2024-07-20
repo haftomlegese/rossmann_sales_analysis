@@ -13,4 +13,3 @@ bin/
 pip-selfcheck.json
 
 .DS_Store     
-/data
